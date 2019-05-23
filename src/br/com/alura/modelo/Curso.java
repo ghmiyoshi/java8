@@ -3,7 +3,6 @@ package br.com.alura.modelo;
 public class Curso {
 	private String nome;
 	private int alunos;
-	private String testeMurilloFork;
 
 	public Curso(String nome, int alunos) {
 		this.nome = nome;
